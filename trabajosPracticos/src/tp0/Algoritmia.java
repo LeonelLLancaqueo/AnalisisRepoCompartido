@@ -1,6 +1,13 @@
-package Repaso_Algoritmia;
+package tp0;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.util.Random;
 
 public class Algoritmia {
+    
     //EJERCICIO1 
 
     //EJERCICIO2 
