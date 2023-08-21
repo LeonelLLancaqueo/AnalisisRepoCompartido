@@ -19,7 +19,7 @@ import java.util.Arrays;
  *
  * @author Leo
  */
-public class ProblemaEscolar {
+public class ejericio8 {
     static final int CANT_ALUMNOS = 7;
     static final int CANT_ASIGNATURAS = 5;
     

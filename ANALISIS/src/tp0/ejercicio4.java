@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * @author Leo
  */
-public class AdivinarNumero {
+public class ejercicio4 {
     
     /* 
     Si un usuario sigue la logica del juego entonces podria tomar como maximo n intentos, ya
